@@ -16,6 +16,7 @@ public class Epd9 {
     public static void main(String[] args) {
         System.out.println("Hola mundo desde master!");
         System.out.println("Este mensaje solo debe ir en master.");
+        System.out.println("Aqui tengo que implementar una suma basica");
     }
     
 }
