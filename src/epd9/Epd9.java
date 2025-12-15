@@ -14,7 +14,7 @@ public class Epd9 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo desde develop!");
+        System.out.println("Hola mundo desde master!");
         System.out.println("Estoy desarrollando feature1!!");
     }
     
